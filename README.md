@@ -1,6 +1,6 @@
 # Notes-App
 
-**To install npm modules - npm install**
+**To install npm modules -> npm install**
 
 ## Following are the commands to use the app
 
